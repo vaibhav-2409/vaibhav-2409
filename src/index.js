@@ -1,3 +1,2 @@
-# Config updated 2025-07-09
-DEBUG=false
-LOG_LEVEL=info
+/* Style update 2025-07-21 */
+.container { margin: 6px; }
