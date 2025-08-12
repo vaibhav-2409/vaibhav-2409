@@ -1,3 +1,3 @@
-# Notes - 2025-08-01
-- Refactored module
-- Fixed 4 bugs
+# Config updated 2025-08-12
+DEBUG=true
+LOG_LEVEL=info
