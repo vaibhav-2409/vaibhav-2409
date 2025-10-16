@@ -1,3 +1,3 @@
-// Updated: 2025-10-13
+// Updated: 2025-10-17
 // Module improvements
-const VERSION = '5.2.58';
+const VERSION = '4.8.26';
