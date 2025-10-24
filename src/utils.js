@@ -1,2 +1,2 @@
-/* Style update 2025-10-16 */
-.container { margin: 25px; }
+/* Style update 2025-10-24 */
+.container { margin: 32px; }
