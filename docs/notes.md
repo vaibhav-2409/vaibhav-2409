@@ -1,2 +1,2 @@
-// Test suite - 2025-11-26
-describe('module', () => { /* tests */ });
+/* Style update 2026-02-05 */
+.container { margin: 4px; }
