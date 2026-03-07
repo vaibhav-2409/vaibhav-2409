@@ -1,3 +1,3 @@
-# Config updated 2026-02-19
-DEBUG=false
+# Config updated 2026-03-07
+DEBUG=true
 LOG_LEVEL=info
