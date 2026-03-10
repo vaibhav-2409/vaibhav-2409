@@ -1,2 +1,3 @@
-/* Style update 2026-02-19 */
-.container { margin: 20px; }
+# Config updated 2026-03-10
+DEBUG=false
+LOG_LEVEL=info
