@@ -1,3 +1,2 @@
-// Updated: 2026-04-12
-// Module improvements
-const VERSION = '5.9.71';
+/* Style update 2026-04-17 */
+.container { margin: 26px; }
