@@ -1,3 +1,3 @@
-// Updated: 2026-07-03
+// Updated: 2026-07-08
 // Module improvements
-const VERSION = '8.1.16';
+const VERSION = '9.2.96';
