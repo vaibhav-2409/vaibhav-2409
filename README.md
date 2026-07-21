@@ -71,7 +71,6 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | 📊 **[Feedback Intel](https://github.com/vaibhav-2409/feedback-intel)** | RAG-Powered Product Intelligence Platform that transcribes audio/CSV reviews, computes RoBERTa sentiment scores, indexes 384-dim FAISS embeddings, and serves multi-turn grounded RAG chat via Llama 4 Scout with automated faithfulness evaluation. | `Python` `FastAPI` `FAISS` `RoBERTa` `Whisper` `Llama 4` `Docker` | [⭐ Repository](https://github.com/vaibhav-2409/feedback-intel) |
-| 🛡️ **Anti-Gravity Platform** | Tourist Safety Monitoring & Incident Response System leveraging geofencing, edge computing, cryptographic identity management, and privacy-preserving AI. | `Python` `Edge AI` `Cryptography` `Geofencing` | [⭐ Link](https://github.com/vaibhav-2409) |
 | ☁️ **AWS Infrastructure Pipeline** | End-to-end cloud infrastructure & telemetry project featuring EC2 server management, automated deployment, and analytics pipelines. | `AWS` `Docker` `Bash` `Python` | [⭐ Link](https://github.com/vaibhav-2409) |
 
 ---
