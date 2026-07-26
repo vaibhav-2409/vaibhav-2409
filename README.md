@@ -36,17 +36,7 @@
 </tr>
 </table>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2409&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=2" alt="vaibhav-2409 trophies" />
-  </a>
-</div>
-
----
 
 ## 🛠️ Tech Stack & Skillset
 
