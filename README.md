@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vaibhav%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vaibhav%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20&descAlignY=55&descAlign=50&v=2" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+%26+RAG+Systems+Developer;Full-Stack+%26+Cloud+Architecture+Specialist;Turning+data+into+actionable+intelligence!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+%26+RAG+Systems+Developer;Full-Stack+%26+Cloud+Architecture+Specialist;Turning+data+into+actionable+intelligence!&v=2" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2409&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="vaibhav-2409 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2409&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=2" alt="vaibhav-2409 trophies" />
   </a>
 </div>
 
@@ -73,8 +73,8 @@
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/vaibhav-2409?base=header,repositories&config.theme=dark" height="175" alt="GitHub Stats" />
-<img src="https://metrics.lecoq.io/vaibhav-2409?base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=6&config.theme=dark" height="175" alt="Top Languages" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=header,repositories&config.theme=dark&v=2" height="175" alt="GitHub Stats" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=6&config.theme=dark&v=2" height="175" alt="Top Languages" />
 
 <br/><br/>
 
