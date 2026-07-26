@@ -1,18 +1,15 @@
 <div align="center">
 
-# Hi there, I'm Vaibhav Sharma 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vaibhav%20Sharma&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Developer%20&descAlignY=55&descAlign=50" />
 
-### 🚀 AI/ML & RAG Systems Developer | Full-Stack & Cloud Architecture Specialist
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI%2FML+%26+RAG+Systems+Developer;Full-Stack+%26+Cloud+Architecture+Specialist;Turning+data+into+actionable+intelligence!" alt="Typing SVG" /></a>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-77a1ab2a7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharmavit8851@gmail.com)
+[![Email](https://img.shields.io/badge/vaibhavsharmavit8851@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharmavit8851@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-2409)
-
----
-
-<p align="center">
-  <i>"Turning complex customer feedback and raw datasets into structured, actionable intelligence using state-of-the-art LLMs, Vector Search, and High-Performance Backend Architectures."</i>
-</p>
+[![Views](https://komarev.com/ghpvc/?username=vaibhav-2409&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/vaibhav-2409)
 
 </div>
 
@@ -20,11 +17,34 @@
 
 ## 💫 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - 🎓 **Computer Science & Engineering Undergrad** specializing in AI, Machine Learning, and Cloud Systems.
 - 🧠 Deeply focused on **Retrieval-Augmented Generation (RAG)**, **NLP Pipelines**, **Vector Databases (FAISS)**, and **Audio Transcription (Whisper)**.
 - ⚡ Experienced in building scalable, real-time FastAPI & Flask backends backed by **Docker, PostgreSQL, Redis, & Celery**.
 - ☁️ Skilled in **AWS Cloud Infrastructure**, Edge & Fog Computing architectures, and Cryptographic Security.
 - 💬 Ask me about **LLM Faithfulness Evaluation**, **Semantic Search**, **PyTorch**, or **FastAPI architecture**.
+
+</td>
+<td valign="top" width="40%">
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="120" height="120" />
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2409&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="vaibhav-2409 trophies" />
+  </a>
+</div>
 
 ---
 
@@ -32,35 +52,9 @@
 
 <div align="center">
 
-### 🤖 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F05032?style=for-the-badge&logo=lightning&logoColor=white)
-![Whisper](https://img.shields.io/badge/OpenAI_Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### ⚙️ Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-### ☁️ DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌐 Frontend & Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| 🤖 AI & ML | ⚙️ Backend & DB | ☁️ DevOps & Infra | 🌐 Frontend & Languages |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <br/> <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Groq-F05032?style=flat-square&logo=lightning&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
 
 </div>
 
@@ -70,7 +64,7 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
-| 📊 **[Feedback Intel](https://github.com/vaibhav-2409/feedback-intel)** | RAG-Powered Product Intelligence Platform that transcribes audio/CSV reviews, computes RoBERTa sentiment scores, indexes 384-dim FAISS embeddings, and serves multi-turn grounded RAG chat via Llama 4 Scout with automated faithfulness evaluation. | `Python` `FastAPI` `FAISS` `RoBERTa` `Whisper` `Llama 4` `Docker` | [⭐ Repository](https://github.com/vaibhav-2409/feedback-intel) |
+| 📊 **[Feedback Intel](https://github.com/vaibhav-2409/feedback-intel)** | RAG-Powered Product Intelligence Platform that transcribes audio/CSV reviews, computes RoBERTa sentiment scores, indexes 384-dim FAISS embeddings, and serves multi-turn grounded RAG chat via Llama 4 Scout. | `Python` `FastAPI` `FAISS` `RoBERTa` `Whisper` `Llama 4` `Docker` | [⭐ Repository](https://github.com/vaibhav-2409/feedback-intel) |
 | ☁️ **AWS Infrastructure Pipeline** | End-to-end cloud infrastructure & telemetry project featuring EC2 server management, automated deployment, and analytics pipelines. | `AWS` `Docker` `Bash` `Python` | [⭐ Link](https://github.com/vaibhav-2409) |
 
 ---
@@ -90,11 +84,18 @@
 
 ---
 
-## 📫 Let's Connect!
+## 🐍 Contribution Graph
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vaibhav-2409/vaibhav-2409/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vaibhav-2409/vaibhav-2409/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vaibhav-2409/vaibhav-2409/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-77a1ab2a7/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharmavit8851@gmail.com)
+---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
