@@ -13,7 +13,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 💫 About Me
 
@@ -30,13 +30,13 @@
 </td>
 <td valign="top" width="40%">
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="120" height="120" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Developer Coding GIF" width="250" />
 </div>
 </td>
 </tr>
 </table>
 
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️ Tech Stack & Skillset
 
@@ -48,31 +48,36 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| 📊 **[Feedback Intel](https://github.com/vaibhav-2409/feedback-intel)** | RAG-Powered Product Intelligence Platform that transcribes audio/CSV reviews, computes RoBERTa sentiment scores, indexes 384-dim FAISS embeddings, and serves multi-turn grounded RAG chat via Llama 4 Scout. | `Python` `FastAPI` `FAISS` `RoBERTa` `Whisper` `Llama 4` `Docker` | [⭐ Repository](https://github.com/vaibhav-2409/feedback-intel) |
-| ☁️ **AWS Infrastructure Pipeline** | End-to-end cloud infrastructure & telemetry project featuring EC2 server management, automated deployment, and analytics pipelines. | `AWS` `Docker` `Bash` `Python` | [⭐ Link](https://github.com/vaibhav-2409) |
+<div align="center">
+  <a href="https://github.com/vaibhav-2409/feedback-intel">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vaibhav-2409&repo=feedback-intel&theme=tokyonight&v=2" alt="Feedback Intel" />
+  </a>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/vaibhav-2409?base=header,repositories&config.theme=dark&v=2" height="175" alt="GitHub Stats" />
-<img src="https://metrics.lecoq.io/vaibhav-2409?base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=6&config.theme=dark&v=2" height="175" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-2409&theme=tokyonight&v=2" width="100%" alt="Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-2409&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=header,repositories&config.theme=tokyonight&v=3" height="175" alt="GitHub Stats" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=6&config.theme=tokyonight&v=3" height="175" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-2409&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🐍 Contribution Graph
 
@@ -84,8 +89,8 @@
   </picture>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&v=2" />
 </div>
