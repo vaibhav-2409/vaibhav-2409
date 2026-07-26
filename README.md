@@ -4,8 +4,8 @@
 
 ### 🚀 AI/ML & RAG Systems Developer | Full-Stack & Cloud Architecture Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.sharma@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-77a1ab2a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharmavit8851@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-2409)
 
 ---
@@ -79,8 +79,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vaibhav-2409&show_icons=true&theme=dark&count_private=true&hide_border=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-2409&layout=compact&theme=dark&hide_border=true&langs_count=6" height="175" alt="Top Languages" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=header,repositories&config.theme=dark" height="175" alt="GitHub Stats" />
+<img src="https://metrics.lecoq.io/vaibhav-2409?base=&plugin_languages=yes&plugin_languages_details=percentage&plugin_languages_limit=6&config.theme=dark" height="175" alt="Top Languages" />
 
 <br/><br/>
 
@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhav.sharma@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-77a1ab2a7/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavsharmavit8851@gmail.com)
 
 </div>
